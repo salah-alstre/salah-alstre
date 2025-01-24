@@ -53,5 +53,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salah-alstre&show_icons=true&locale=en&layout=compact" alt="salah-alstre" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salah-alstre&show_icons=true&locale=en" alt="salah-alstre" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salah-alstre&" alt="salah-alstre" /></p>
