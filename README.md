@@ -1,4 +1,4 @@
-<h3 align="center">A passionate front-end developer who loves creating interactive and user-friendly web applications. I enjoy solving problems creatively, finding inspiration in books, and exploring new technologies to stay ahead in the ever-evolving tech world.</h3>
+<h3 align="center">A passionate full-stack developer who loves building interactive and user-friendly web applications. I enjoy solving complex problems creatively, finding inspiration in books, and exploring new technologies to stay ahead in the ever-evolving tech world </h3>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" />
 
 
