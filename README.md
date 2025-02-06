@@ -6,12 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salah-alstre&theme=light" alt="salah-alstre" /></a> </p>
 
 
-- 🌱 I’m currently learning *New Techs**
-
-- 📫 How to reach me **error.salah59@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/salah-alden-8aba5a322/](https://www.linkedin.com/in/salah-alden-8aba5a322/)
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/error_dev1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salah-alstre-8aba5a322/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:error.salah59@gmail.com) 
